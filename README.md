@@ -8,6 +8,11 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 
 * *Data service*:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DataService-brightgreen.svg)](https://github.com/dronsEETAC/DataServiceDEE) controls the data storage and retrieval in the API REST, as required by the rest of modules.
+
+* *Image service*:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-ImageService-brightgreen.svg)](https://github.com/dronsEETAC/ImageService)  is a ground module that receives images from the rest of modules of the ecosystem to perform some image analysis and then send the results back.
+
+
 ## 2. Python and PyCharm
 In order to run and contribute to the modules in this block you need to install versión 3.7 of Python. We recomend you to use PyCharm as IDE for development in Python.
 ## 3. Supporting materials
