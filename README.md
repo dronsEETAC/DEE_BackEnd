@@ -6,9 +6,6 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 * *API REST*:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-APIREST-brightgreen.svg)](https://github.com/dronsEETAC/APIRESTDEE) a server that provides data storage and retrieval through HTTP basic operations (GET, POST, PUT, DELETE).      
 
-* *Data service*:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DataService-brightgreen.svg)](https://github.com/dronsEETAC/DataServiceDEE) controls the data storage and retrieval in the API REST, as required by the rest of modules.
-
 * *Image service*:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-ImageService-brightgreen.svg)](https://github.com/dronsEETAC/ImageService)  is a ground module that receives images from the rest of modules of the ecosystem to perform some image analysis and then send the results back.
 
