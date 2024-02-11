@@ -14,6 +14,6 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 In order to run and contribute to the modules in this block you need to install versión 3.7 of Python. We recomend you to use PyCharm as IDE for development in Python.
 ## 3. Supporting materials
 A tutorial (in Spanish) on including new end points to the APIREST:
-[APIREST for the DEE](https://www.youtube.com/playlist?list=PLyAtSQhMsD4o3VIWiQ7xYB9dx7f-C8Ju1
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_APIREST-pink.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4o3VIWiQ7xYB9dx7f-C8Ju1)
 
 
